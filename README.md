@@ -27,4 +27,4 @@ This design pattern separate the process of creation of objects from its actual 
 In swift we define Singleton classes by using the static keyword. It means that the object is going to be instantiated only once. Static properties are lazy initialized and will not be instantiated until called.
 There is only one copy of this object and is used by the other objects globally.
 
-For more, check the [Medium Blog](https://medium.com/p/18d4be82092f)
+For more, check the [Medium Blog](https://medium.com/@lubabahasnain93/design-patterns-in-swift-part-i-creational-design-pattern-18d4be82092f)
